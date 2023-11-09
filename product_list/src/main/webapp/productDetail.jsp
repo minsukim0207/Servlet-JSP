@@ -9,7 +9,7 @@
 <title>力前 惑技</title>
 </head>
 <body>
-	<h1>力前 惑力</h1>
+	<h1>力前 惑技</h1>
 	<%
 		String productIdValue = request.getParameter("productId");
 		int productId = Integer.parseInt(productIdValue);
